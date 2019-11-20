@@ -1,0 +1,25 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Mohammad Chand Alam
+bot : - okay, did you get hurt, or it is a suddern aching.
+user : My nose is block
+bot : - Okay, this is a symptom of cold, do you have cold?
+user : Yes
+bot : - Bye. Nice talking to you
+user : Yes I have cold
+bot : - You should take a sudafed tablet after your meal.
+user : Ok , I will take sudafed tablet
+bot : - let me know if you are feeling better after having sudafed tablet.
+user : I took the sudafed
+bot : - Good, now take some rest and then let me know if you are feeling better after having sudafed tablet.
+user : Now, I am still not feeling well
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : Now, I am still not feeling well after sudafed tablet
+bot : - Ok, its not just a normal cold, you should consult a doctor.
+user : can you book an appointment for me?
+bot : - yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'
+user : Chand :21 nov: hamid : ok hospital 
+bot : - appointment details saved. you shall be contacted shortly.
+user : thanks
+bot : - happy to help!
+user : bye
+bot : - Bye. Nice talking to you

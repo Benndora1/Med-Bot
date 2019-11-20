@@ -1,0 +1,33 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Hi
+bot : - Hello. How are you feeling today?
+user : I am not well
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : fever
+bot : - good to know. how may i assist you then?
+user : tell me medicine
+bot : - okay, did you get hurt, or it is a suddern aching.
+user : sudden aching
+bot : - okay, did you get hurt, or it is a suddern aching.
+user : My head is paining
+bot : - okay, did you get hurt, or it is a suddern paining.
+user : bye
+bot : - Bye. Nice talking to you
+user : Hi
+bot : - Hello. How are you feeling today?
+user : fine
+bot : - good to know. how may i assist you then?
+user : my body temperature raised
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : i took crocin
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : feeling bad
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : I am feeling week
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : ok I will take crocin
+bot : - let me know if you are feeling better after having crocin.
+user : ok
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : bye
+bot : - Bye. Nice talking to you
